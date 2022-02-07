@@ -1,0 +1,28 @@
+HTML SCSS JSResult Skip Results Iframe
+EDIT ON
+body { margin: 0; }
+
+#bridge {
+  display: block;
+  margin: 0 auto;
+  background-image: url('https://raw.githubusercontent.com/nvito2/nvito2.github.io/main/watertiger_lunar.jpg');
+  background-image: -webkit-image-set(url('https://raw.githubusercontent.com/nvito2/nvito2.github.io/main/watertiger_lunar.jpg') 1x, url('https://raw.githubusercontent.com/nvito2/nvito2.github.io/main/2022_lunar.jpg') 2x );
+  background-size: contain;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  cursor:  crosshair;
+  cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/circular-cursor.png) 53 53, crosshair;
+}
+#bridgeContainer { 
+  text-align: center;
+  font-family: Avenir, sans-serif;
+}
+#bridgeContainer figcaption {   
+  margin-top: 2rem; 
+}
+View Compiled
+Run Pen
+
+
+Resources1× 0.5× 0.25×Rerun
